@@ -1,0 +1,7 @@
+.main-title {
+  font-weight: 700;
+  font-size: 6rem;
+  line-height: 7rem;
+  text-transform: capitalize;
+  color: var(--text);
+}
