@@ -5,3 +5,8 @@
   text-transform: capitalize;
   color: var(--text);
 }
+
+.main-title.-price {
+  font-size: 4rem;
+  line-height: 4.7rem;
+}

@@ -1,5 +1,9 @@
 .main-price {
-    margin-top: 19rem;
-    margin-left: 11rem;
-    width: 36rem;
+  margin-top: 19rem;
+  margin-left: 11rem;
+  width: 36rem;
+}
+
+.main-price .main-description {
+  padding: 2.1rem 0rem;
 }
