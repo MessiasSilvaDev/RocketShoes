@@ -1,0 +1,9 @@
+.main-navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.main-navbar.-between {
+  justify-content: space-between;
+}
