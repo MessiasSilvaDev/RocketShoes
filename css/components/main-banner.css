@@ -1,0 +1,4 @@
+.main-banner {
+    display: inline-block;
+    background-color: var(--main-background);
+}
