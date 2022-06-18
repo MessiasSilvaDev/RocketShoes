@@ -7,3 +7,7 @@
 .main-navbar.-between {
   justify-content: space-between;
 }
+
+.main-navbar.-between video {
+  height: 16.6rem;
+}
