@@ -1,0 +1,6 @@
+.main-description {
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 1.9rem;
+  color: var(--text-description);
+}
