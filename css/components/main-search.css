@@ -4,12 +4,14 @@
   background-color: white;
   width: 22rem;
   height: 4.5rem;
+  padding: 1.5rem;
 }
 
 .main-search input {
   font-size: 1.8rem;
   line-height: 2.1rem;
   color: var(--text-description);
+  width: 100%;
 }
 
 .main-search .iconSearch {
