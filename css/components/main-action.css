@@ -1,0 +1,7 @@
+.main-action {
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.8rem;
+    color: var(--text);
+    text-transform: uppercase;
+}
