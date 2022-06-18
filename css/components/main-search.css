@@ -1,0 +1,18 @@
+.main-search {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  width: 22rem;
+  height: 4.5rem;
+}
+
+.main-search input {
+  font-size: 1.8rem;
+  line-height: 2.1rem;
+  color: var(--text-description);
+}
+
+.main-search .iconSearch {
+  height: 2.4rem;
+  margin-right: 0.5rem;
+}
