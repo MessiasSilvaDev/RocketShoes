@@ -1,0 +1,12 @@
+.main-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 17.5rem;
+}
+
+.main-wrapper .gallery {
+    display: flex;
+    gap: 3.7rem;
+}

@@ -1,4 +1,9 @@
 .main-banner {
-    display: inline-block;
-    background-color: var(--main-background);
+  display: inline-block;
+  background-color: var(--main-background);
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 90rem;
+  height: 92rem;
 }
