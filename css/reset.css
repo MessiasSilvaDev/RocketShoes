@@ -1,0 +1,21 @@
+:root {
+  --button: hsl(0, 100%, 50%);
+  --main-background: hsl(0, 0%, 77%);
+  --background: hsl(0, 0%, 90%);
+  --text: hsl(0, 0%, 0%);
+  --footer: hsl(0, 0%, 0%);
+  --text-description: hsl(0, 3%, 60%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Roboto', sans-serif;
+}
