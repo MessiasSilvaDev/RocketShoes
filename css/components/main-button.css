@@ -7,3 +7,18 @@
   line-height: 2.8rem;
   text-transform: uppercase;
 }
+
+.main-button.-secondary {
+  height: 16.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3.4rem;
+  line-height: 3.8rem;
+  background-color: var(--footer);
+}
+
+.main-button.-secondary .iconArrow {
+  margin-left: 1.4rem;
+  width: 5rem;
+}
